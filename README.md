@@ -15,8 +15,4 @@ the status of the different programs regularly :+1:
 ### 1.atm: Application Thread Monitoring
 
 **atm** is a small utility allowing to monitor the differents threads used by a running program.
-The informations of each thread are :
 
-- thread's **name**
-- thread's **priority**
-- thread's **scheduling policy**
