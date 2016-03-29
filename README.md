@@ -12,7 +12,10 @@ application running on the system, the memory usage, the energy usage and more.
 The following list, details the programs developed or in progress. We will continue to update
 the status of the different programs regularly :+1:
 
-### 1.atm: Application Thread Monitoring
+## 1 - atm: Application Thread Monitoring
 
 **atm** is a small utility allowing to monitor the differents threads used by a running program.
 
+## 2 - fx-tagelf: Utility to tag ELF binary application.
+
+**fx-tagelf** is a small utility allowing to tag ELF binary application.
