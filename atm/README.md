@@ -23,6 +23,19 @@ If you want to have all the details about /proc go to http://man7.org/linux/man-
 
 ## 3 - How to use it ?
 
+### 3.1 - Help
+
+We have followed the traditionnal coding rules for system utitlies. So there is a help included which 
+can be called like this :
+`./atm -h`
+
+### 3.2 - Basic Usage
+
+This utility should be use like this:
+`./atm -p PID`
+With PID the Process ID of the application we want to monitor. You will have to look for the PID of the
+application you want to monitor before (probably by using the `ps` command).
+
 ## 4 - Credits
 
 - Thierry BADJI @khalebios
