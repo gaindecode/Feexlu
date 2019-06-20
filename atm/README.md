@@ -38,6 +38,6 @@ application you want to monitor before (probably by using the `ps` command).
 
 ## 4 - Credits
 
-- Thierry BADJI @khalebios
-- Boris BIGNUMB-BI-KUMB @bigNUMB
+- Thierry BADJI
+- Boris BIGNUMB-BI-KUMB @bignumbBIkumb
 
